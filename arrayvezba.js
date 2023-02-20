@@ -359,6 +359,8 @@ Ukoliko nije pomnoziti drugi i cetvrti element
 // console.log(arrStringstoArrNum(array));
 
 
+ASHJDASJUDfaiskdhfiasudhfoiasdhoasidhfoasidhfoasihfosd
+
 
 // 2. Write a program to join all elements of the array into a string skipping elements
 // that are undefined, null, NaN or Infinity.
